@@ -1,6 +1,8 @@
 # Arduino_Projects
 
-Arduino Projects
+Arduino Projects 
+
+These projects were done using the book authored by John Nussey.
 
 AlarmClock:
 Using an RTC module, the current time is displayed on a LCD screen.
